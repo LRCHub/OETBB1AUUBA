@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "永遠のEuphoria",
+  "base_artist": "蓮ノ空女学院スクールアイドルクラブ",
+  "createdAt": "2026-01-03T06:04:38.696823Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "永遠のEuphoria",
+      "artist": "蓮ノ空女学院スクールアイドルクラブ",
+      "has_synced": true,
+      "path": "select/01_永遠のEuphoria_蓮ノ空女学院スクールアイドルクラブ.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "永遠のEuphoria (104期 Ver.)",
+      "artist": "蓮ノ空女学院スクールアイドルクラブ",
+      "has_synced": true,
+      "path": "select/02_永遠のEuphoria_(104期_Ver.)_蓮ノ空女学院スクールアイドルクラブ.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "永遠のEuphoria (104期 Ver.)",
+      "artist": "蓮ノ空女学院スクールアイドルクラブ (楡井希実, 野中ここな, 花宮初奈, 佐々木琴子, 菅叶和, 月音こな)",
+      "has_synced": true,
+      "path": "select/03_永遠のEuphoria_(104期_Ver.)_蓮ノ空女学院スクールアイドルクラブ_(楡井希実,_野中ここな,_花宮初奈,_佐々木琴子,_菅叶和,_月音こな).lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "永遠のEuphoria",
+      "artist": "蓮ノ空女学院スクールアイドルクラブ",
+      "has_synced": false,
+      "path": "select/pl_01_永遠のEuphoria_蓮ノ空女学院スクールアイドルクラブ.txt"
+    }
+  ]
+}
